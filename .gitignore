@@ -1,6 +1,8 @@
 # custom
 tmp/*
 !.gitkeep
+data
+ckpt
 
 # pip from github
 src/
